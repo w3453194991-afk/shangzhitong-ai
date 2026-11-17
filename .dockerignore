@@ -1,0 +1,12 @@
+node_modules
+.next
+.git
+.gitignore
+data
+*.log
+.env
+.env.local
+tsconfig.tsbuildinfo
+*.zip
+README.md
+DEPLOY.md
