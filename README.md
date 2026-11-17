@@ -22,10 +22,6 @@ npm run seed
 npm run build && npm start
 ```
 
-## 部署到服务器
-
-Linux 服务器（宝塔面板 + Docker）部署步骤见 [DEPLOY.md](./DEPLOY.md)。
-
 ## 演示账号
 
 统一密码：`demo123`
